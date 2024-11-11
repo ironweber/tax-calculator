@@ -1,0 +1,11 @@
+{
+  "brackets": [
+    {"rate": 0.10, "amount": 11000},
+    {"rate": 0.12, "amount": 44725},
+    {"rate": 0.22, "amount": 95375},
+    {"rate": 0.24, "amount": 182100},
+    {"rate": 0.32, "amount": 231250} //,
+    // {"rate": .35, "amount": 578125},
+    // {"rate": .37, "amount": 578125},
+  ]
+}

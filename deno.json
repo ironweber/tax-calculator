@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@std/cli": "jsr:@std/cli@^1.0.6",
+    "@std/jsonc": "jsr:@std/jsonc@^1.0.1"
+  }
+}

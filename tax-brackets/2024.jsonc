@@ -1,0 +1,20 @@
+[
+ {"rate": 0.10, "amount": 11600},
+ {"rate": 0.12, "amount": 47150},
+ {"rate": 0.22, "amount": 100525},
+ {"rate": 0.24, "amount": 191950},
+ {"rate": 0.32, "amount": 243725}
+]
+
+
+// const BRACKETS = [
+//   {rate: .12, amount: 9525},
+//   {rate: .22, amount: 38700},
+//   {rate: .24, amount: 82500},
+//   {rate: .32, amount: 157500},
+//   {rate: .35, amount: 200000},
+//   {rate: .37, amount: 500000},
+// ];
+
+
+
