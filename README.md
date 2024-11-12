@@ -1,7 +1,19 @@
 # tax-calculator
 Stupid simple federal tax calculator
 
-## Usage
-`deno compile --allow-read main.ts`
+## Installation
+Clone the repo `git clone https://github.com/ironweber/tax-calculator.git`
 
-`./tax-calculator --taxYear 2023 --income 100000`
+Install [deno](https://docs.deno.com/runtime/getting_started/installation/)
+
+## Usage
+
+### Compile the code:
+```
+deno compile --allow-read main.ts
+```
+
+### Run the script:
+```
+./tax-calculator --taxYear 2023 --income 100000
+````
