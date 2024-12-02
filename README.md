@@ -1,7 +1,7 @@
 # tax-calculator
 Stupid simple federal tax calculator. (Only Single filing for federal taxes)
 
-There are a few `.jsonc` files in the `tax-brackerts` folder. If you want to use one that doesn't exist just follow the format and import it through the cli. 
+There are a few `.jsonc` files in the `tax-brackets` folder. If you want to use one that doesn't exist just follow the format and import it through when you run the script. 
 
 ## Installation
 Clone the repo `git clone https://github.com/ironweber/tax-calculator.git`
